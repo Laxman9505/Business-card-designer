@@ -1,0 +1,64 @@
+{
+  "image": "http://res.cloudinary.com/dugshospt/image/upload/v1644564174/usqcregwxblazprvtvqo.png",
+  "logo": {
+    "source": "https://res.cloudinary.com/dugshospt/image/upload/v1644564624/okm8bmba8sv6tp1qbaiu.png",
+    "size": {
+      "width": 180,
+      "height": "110"
+    },
+    "position": {
+      "top": 10,
+      "left": 11
+    },
+    "isResizable": false,
+    "isDraggable": false
+  },
+  "heading": {
+    "typography": {
+      "color": "#1b5333",
+      "fontSize": "16",
+      "isBold": false,
+      "isUpperCase": false
+    },
+    "position": {
+      "left": 310,
+      "top": 10.5
+    }
+  },
+  "subtitle": {
+    "typography": {
+      "color": "#1b5333",
+      "fontSize": "16",
+      "isBold": false,
+      "isUpperCase": false
+    },
+    "position": {
+      "left": 310,
+      "top": 13
+    }
+  },
+  "footer": {
+    "typography": {
+      "color": "#1b5333",
+      "fontSize": "16",
+      "isBold": false,
+      "isUpperCase": false
+    },
+    "position": {
+      "left": 310,
+      "top": 15.5
+    }
+  },
+  "call": {
+    "typography": {
+      "color": "#1b5333",
+      "fontSize": "16",
+      "isBold": false,
+      "isUpperCase": false
+    },
+    "position": {
+      "left": 310,
+      "top": 18
+    }
+  }
+}

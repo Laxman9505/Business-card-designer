@@ -1,0 +1,18 @@
+.input {
+  height: 32px;
+  width: 100%;
+  border: 1px solid rgb(206, 203, 203);
+  border-radius: 10px;
+  transition: all 0.5s ease-in-out;
+  padding: 5px 10px;
+  font-size: 13px;
+}
+
+.input:focus {
+  outline: none !important;
+  border: 1px solid #8b3dff;
+}
+.input::placeholder {
+  color: rgb(95, 94, 94);
+  font-size: 12px;
+}
